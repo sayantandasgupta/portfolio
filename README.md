@@ -72,8 +72,7 @@ After installing all pre-requisites, carry out the following instructions:
 <div>
     <h2>Built With</h2>
     <p align="center">
-    <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white
-">
+    <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     </p>
 </div>
