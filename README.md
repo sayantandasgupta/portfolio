@@ -8,11 +8,11 @@
 <div>
     <h2>Contents</h2>
     <ol>
-        <li><a href="https://github.com/sayantandasgupta/portfolio/blob/main/README.md#description">Description</a></li>
-        <li><a href="https://github.com/sayantandasgupta/portfolio/blob/main/README.md#project-structure">Project Structure</a></li>
-        <li><a href="https://github.com/sayantandasgupta/portfolio/blob/main/README.md#getting-started">Getting Started</a></li>
-        <li><a href="https://github.com/sayantandasgupta/portfolio/blob/main/README.md#built-with">Built With</a></li>
-        <li><a href="https://github.com/sayantandasgupta/portfolio/blob/main/README.md#author">Author</a></li>
+        <li><a href="https://github.com/sayantandasgupta/portfolio#description">Description</a></li>
+        <li><a href="https://github.com/sayantandasgupta/portfolio#project-structure">Project Structure</a></li>
+        <li><a href="https://github.com/sayantandasgupta/portfolio#getting-started">Getting Started</a></li>
+        <li><a href="https://github.com/sayantandasgupta/portfolio#built-with">Built With</a></li>
+        <li><a href="https://github.com/sayantandasgupta/portfolio#author">Author</a></li>
     </ol>
 </div>
 
