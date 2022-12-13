@@ -15,7 +15,7 @@
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -43,7 +43,7 @@ masthead_title: "Home"
 author:
   name        : "Sayantan Dasgupta"
   bio         : >-
-    Software Developer. Part-time blogger
+    Software Developer. Technical blogger
   avatar: "/assets/images/profile.jpg"
   location: "Kolkata, IN"
   links:
