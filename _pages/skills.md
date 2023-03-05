@@ -8,7 +8,7 @@ permalink: /skills/
 
 | Category              | Items                                 |
 | --------              |   ----                                |
-| Programming Languages | Java, Python, Typescript              |
+| Programming Languages | Java, Python, Typescript, Javascript  |
 | Frameworks            | Node.js, Express.js, FastAPI          |
 | Databases             | MySQL, PostgreSQL, MongoDB            |
 | Developer Tools       | VS Code, Postman, Git, GitHub         |

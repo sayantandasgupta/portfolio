@@ -9,10 +9,9 @@ permalink: /experience/
 Backend Developer\
 **Jan 2022 - Present**\
 *Kolkata, India*
-* Being one of 4 Backend Developers in the company
-* Worked on an E-Learning application aimed at helping students to prepare for Government Defence Exams
-* Worked on the backend of a Kanban board application for the internal task management for the organization
-* Technologies Worked With : **Python**, **Django**, **Node.js**, **Express.js**, and **Typescript** 
+* Designed and built a microservices backend for a Kanban board application
+* Currently working on building a patient management system for hospitals with a target patient count of 10 million across India
+* Technologies Worked With : **Node.js**, **Express.js**, **Typescript**, and **MongoDB**
 
 #### applex.in
 App Development Intern\

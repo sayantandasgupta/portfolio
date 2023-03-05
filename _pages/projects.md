@@ -5,16 +5,24 @@ permalink: /projects/
 
 ## Projects
 
-#### Social Media Application Backend
+#### Bees
 
-The project involves the development of the backend for a social media application using Node.js and Typescript. The application is built with a focus on scalability and performance, using the latest technologies and best practices. MongoDB is used as the database for storing and managing user data, allowing for efficient data management and retrieval. The backend includes features such as user authentication, messaging, and feed management, providing a seamless and engaging user experience. The project also includes thorough testing and documentation to ensure high-quality and maintainability.
+* An Android-based social media application aimed to cater towards the student community
+* Designed and built the entire microservices backend with a team of 4 backend deveopers, which included myself
+* Implemented live updates on different actions on media posts by extensively using Web Sockets
+* Made provisions for efficient media file upload and streaming using AWS S3 cloud storage
+* Technologies Used: *Backend* - **Javascript**, **Node.js**, **Express.js**, and **MongoDB**
 
-[GitHub Link](https://github.com/sayantandasgupta/social-media-backend)
+[Download the App from Play Store](https://play.google.com/store/apps/details?id=com.iemkol.beez)
 
 <hr>
 
-#### To-Do Application Backend
+#### Plutusecurus
 
-The project is a To-Do application backend built using Node.js and Typescript. MongoDB is used as the database to store user information and to-do tasks. The application allows users to create and manage their to-do lists, with features such as task categorization, task scheduling, and reminders. The backend is designed to be scalable and efficient, using modern web development techniques and best practices. The project is aimed at providing a user-friendly and efficient tool for personal task management.
+* An all-in-one finance app for online crypto payments
+* Designed and created all the API endpoints for calling smart contract functions
+* Made Solidity Smart Contract function calls secure by integrating the smart contracts with Express REST API application
+* Made user expenses analytics available by providing all expense categories to the User model
+* Technologies Used: **Javascript**, **Node.js**, **Express.js**, **Ethers.js** and **MongoDB**
 
-[GitHub Link](https://github.com/sayantandasgupta/todo-rest-api-nodets)
+[GitHub Link to the Backend Codebase](https://github.com/Plutusecurus/plutusecurus-backend)
