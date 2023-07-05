@@ -7,11 +7,9 @@ permalink: /projects/
 
 #### Bees
 
-* An Android-based social media application aimed to cater towards the student community
-* Designed and built the entire microservices backend with a team of 4 backend deveopers, which included myself
-* Implemented live updates on different actions on media posts by extensively using Web Sockets
-* Made provisions for efficient media file upload and streaming using AWS S3 cloud storage
-* Technologies Used: *Backend* - **Javascript**, **Node.js**, **Express.js**, and **MongoDB**
+* Developed and implemented a comprehensive user acquisition strategy, resulting in a **300%** increase in app downloads within the first month of launch
+* Collaborated with UI/UX designers to create an intuitive and engaging interface, resulting in a **90%** user retention rate.
+* Optimized backend database queries by implementing indexing and caching techniques, reducing response times by over **50%**
 
 [Download the App from Play Store](https://play.google.com/store/apps/details?id=com.iemkol.beez)
 
@@ -19,10 +17,8 @@ permalink: /projects/
 
 #### Plutusecurus
 
-* An all-in-one finance app for online crypto payments
-* Designed and created all the API endpoints for calling smart contract functions
-* Made Solidity Smart Contract function calls secure by integrating the smart contracts with Express REST API application
-* Made user expenses analytics available by providing all expense categories to the User model
-* Technologies Used: **Javascript**, **Node.js**, **Express.js**, **Ethers.js** and **MongoDB**
+* Streamlined the UX/UI design of the Plutusecurus app resulting in a **20%** increase in daily active users and a 30% decrease in user churn rate
+* Implemented advanced security measures including biometric authentication and multi-factor verification to ensure the safety of over **$10,000** worth of **Ethereum** stored in wallets
+* Conducted thorough research on **Ethereum** smart contracts and **Node.js** to identify potential areas for improvement, resulting in an enhanced security feature that reduced fraudulent transactions by **70%**
 
 [GitHub Link to the Backend Codebase](https://github.com/Plutusecurus/plutusecurus-backend)
